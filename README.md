@@ -3,6 +3,6 @@
 ### 求职意向：前端工程师
 ### 电话:15823566422
 ### 邮箱:15823566422@163.com
-### [点击查看简历](http://hotkang.cn/hotYan_resume/)
+### [点击查看简历](https://hotyan.github.io/hotYan_resume/)
 
 
