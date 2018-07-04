@@ -4,5 +4,4 @@
 ### 电话:15823566422
 ### 邮箱:15823566422@163.com
 ### [点击查看简历](https://hotkang.cn/hotYan_resume/)
-
-
+### [点击查看博客](https://hotkang.cn/)
